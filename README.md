@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @syhong99
+- 👋 Hi, I’m Yong.
 - 👀 I’m interested in Security, Math, etc.
 - 🌱 I’m currently learning Cloud
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on making a new platform to cummunicate.
 
 <!---
 syhong99/syhong99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
